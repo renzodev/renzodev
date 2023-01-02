@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renzodev
+- 👋 Hi, I’m Renzo Sá
 - 👀 I’m interested in Software Engineering and Development
 - 🌱 I’m currently learning React and Serverless Framework
 - 💞️ I’m looking to collaborate in software development and improve my english
